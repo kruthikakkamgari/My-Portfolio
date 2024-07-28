@@ -7,7 +7,6 @@ This repository hosts Kruthika Akkamgari's portfolio website, showcasing her aca
 - `index.html`: The main HTML file.
 - `style.css`: The CSS file for styling the portfolio.
 - `script.js`: The JavaScript file for interactive functionality.
-- `profile-pic.jpg`: The profile picture used on the website.
 
 ## How to Use
 
